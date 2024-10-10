@@ -1,0 +1,9 @@
+fastapi
+langchain
+langchain_community
+chromadb
+uvicorn
+magnum
+gpt4all
+fitz
+PyMuPDF
